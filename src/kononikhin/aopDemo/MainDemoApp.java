@@ -21,6 +21,7 @@ public class MainDemoApp {
 
         accountDAO.addAccount(account);
         memberShipDAO.addMemberShipAccount();
+        memberShipDAO.print(true);
 
         context.close();
 

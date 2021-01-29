@@ -10,4 +10,8 @@ public class MemberShipDAO {
         return true;
     }
 
+    public String print(boolean t){
+        System.out.println("Sleep");
+        return ";";
+    }
 }
