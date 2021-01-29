@@ -1,4 +1,4 @@
-package kononikhin.aopDemoDAO;
+package kononikhin.DAO;
 
 
 import kononikhin.Entity.Account;

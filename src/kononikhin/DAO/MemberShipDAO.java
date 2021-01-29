@@ -1,4 +1,4 @@
-package kononikhin.MemberShipDAO;
+package kononikhin.DAO;
 
 import org.springframework.stereotype.Component;
 

@@ -1,9 +1,9 @@
 package kononikhin.aopDemo;
 
 import kononikhin.Entity.Account;
-import kononikhin.MemberShipDAO.MemberShipDAO;
+import kononikhin.DAO.MemberShipDAO;
 import kononikhin.aopDemo.Config.DemoConfig;
-import kononikhin.aopDemoDAO.AccountDAO;
+import kononikhin.DAO.AccountDAO;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class MainDemoApp {
