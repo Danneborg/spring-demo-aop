@@ -18,6 +18,11 @@ public class MainDemoApp {
         account.setLevel("6");
         account.setName("6");
 
+        accountDAO.setName("simple");
+        accountDAO.setCode(1);
+
+        accountDAO.getName();
+        accountDAO.getCode();
 
         accountDAO.addAccount(account);
         memberShipDAO.addMemberShipAccount();
